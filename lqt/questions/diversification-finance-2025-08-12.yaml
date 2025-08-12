@@ -1,0 +1,67 @@
+link: https://en.wikipedia.org/wiki/Diversification_(finance)
+slug: diversification-finance
+file: diversification-finance-2025-08-12.yaml
+verified:
+  questions: gaf3
+  tags: null
+questions:
+- question: What is diversification in finance?
+  correct: A risk management strategy that mixes a wide variety of investments
+  incorrect:
+  - Investing all capital into one asset
+  - Eliminating all high-risk investments
+  - Focusing only on short-term investments
+- question: What is the main goal of diversification?
+  correct: To reduce the overall risk of an investment portfolio
+  incorrect:
+  - To maximize short-term profits
+  - To eliminate all forms of risk
+  - To avoid investing in stocks
+- question: Which type of risk can diversification help reduce?
+  correct: Unsystematic risk
+  incorrect:
+  - Systematic risk
+  - Inflation risk
+  - Currency risk
+- question: What is an example of diversification?
+  correct: Holding stocks from different industries
+  incorrect:
+  - Buying multiple stocks from the same company
+  - Investing only in technology stocks
+  - Holding only one type of bond
+- question: Why can diversification not eliminate systematic risk?
+  correct: Because it affects the entire market or economy
+  incorrect:
+  - Because it is based only on investor behavior
+  - Because it applies only to small companies
+  - Because it is limited to foreign investments
+- question: What is the benefit of international diversification?
+  correct: It reduces exposure to domestic economic downturns
+  incorrect:
+  - It guarantees higher returns
+  - It eliminates currency fluctuations
+  - It removes all market volatility
+- question: Which of the following is NOT a common way to diversify a portfolio?
+  correct: Investing only in one company's shares
+  incorrect:
+  - Holding stocks, bonds, and real estate
+  - Investing in domestic and foreign markets
+  - Mixing high-risk and low-risk assets
+- question: What is asset allocation?
+  correct: The process of dividing investments among different asset categories
+  incorrect:
+  - Selling all assets in a portfolio
+  - Buying only fixed-income securities
+  - Focusing solely on cash reserves
+- question: How does diversification affect potential returns?
+  correct: It may limit extreme gains while reducing large losses
+  incorrect:
+  - It guarantees maximum profits
+  - It ensures no loss will occur
+  - It eliminates the need for monitoring investments
+- question: Which famous principle is associated with diversification?
+  correct: Do not put all your eggs in one basket
+  incorrect:
+  - Buy low, sell high
+  - Time in the market beats timing the market
+  - Cut your losses quickly

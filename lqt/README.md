@@ -109,11 +109,11 @@ Create a file in `lqt/topics` named as above with the generated content.
 
 # Verify Topics
 
-Go into the file and verify accuracy. Edit and get rid of topics that don't make sense or are too narrow.
+Go into the file and verify accuracy. Edit if needed.
 
 ## File
 
-Go into in `lqt/topics.yaml` and add only the topics we want to make permanent.
+Go into in `lqt/topics.yaml` and add only the topics we want to make permanent. Ones that'll apply beyond this link. General ones.
 
 # Generate Tags
 

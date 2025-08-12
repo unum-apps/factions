@@ -1,0 +1,19 @@
+link: https://en.wikipedia.org/wiki/Diversification_(finance)
+slug: diversification-finance
+file: diversification-finance-2025-08-12.yaml
+topics:
+- name: Diversification
+  tag: diversification
+  description: A risk management strategy that spreads investments across various assets to reduce risk
+- name: Unsystematic Risk
+  tag: unsysrisk
+  description: Risk specific to a company or industry that can be reduced through diversification
+- name: Systematic Risk
+  tag: sysrisk
+  description: Market-wide risk that cannot be eliminated through diversification
+- name: International Diversification
+  tag: intdiv
+  description: Investing in assets across multiple countries to reduce exposure to domestic economic downturns
+- name: Asset Allocation
+  tag: assetalloc
+  description: The process of distributing investments among different asset categories

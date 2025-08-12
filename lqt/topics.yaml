@@ -29,3 +29,6 @@ topics:
 - name: Diminishing Returns
   tag: DimRet
   description: The economic concept describing the decrease in incremental output as additional inputs are added
+- name: Financial Diversification
+  tag: FinDivers
+  description: A risk management strategy that spreads investments across various assets to reduce risk
