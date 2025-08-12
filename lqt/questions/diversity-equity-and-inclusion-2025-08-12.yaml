@@ -1,6 +1,8 @@
 link: https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion
 slug: diversity-equity-and-inclusion
 file: diversity-equity-and-inclusion-2025-08-12.yaml
+verified:
+  questions: gaf3
 questions:
 - question: What does DEI stand for?
   correct: Diversity, Equity, and Inclusion
