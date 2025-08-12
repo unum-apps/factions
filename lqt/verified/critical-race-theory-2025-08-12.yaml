@@ -1,6 +1,9 @@
 link: https://en.wikipedia.org/wiki/Critical_race_theory
 slug: critical-race-theory
 file: critical-race-theory-2025-08-12.yaml
+verified:
+  questions: gaf3
+  tags: gaf3
 questions:
 - question: What does CRT stand for in academic discussions?
   correct: Critical Race Theory
