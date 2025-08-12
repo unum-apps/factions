@@ -1,0 +1,13 @@
+topics:
+- name: Racism
+  tag: racism
+  description: Judging someone based on their race
+- name: Poverty
+  tag: poverty
+  description: People not having enough resources to live comfortably
+- name: Critical Race Theory
+  tag: CRT
+  description: An academic framework that examines how laws, policies, and institutions perpetuate racial inequalities
+- name: Intersectionality
+  tag: intersectionality
+  description: The study of how overlapping social identities relate to systems of oppression and discrimination
