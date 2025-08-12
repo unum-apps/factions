@@ -1,0 +1,22 @@
+link: https://www.leanproduction.com/oee/
+slug: oee-overall-equipment-effectiveness
+file: oee-overall-equipment-effectiveness-2025-08-12.yaml
+topics:
+- name: Overall Equipment Effectiveness
+  tag: OEE
+  description: A metric that measures the percentage of manufacturing time that is truly productive by combining availability, performance, and quality
+- name: Availability
+  tag: availability
+  description: The proportion of scheduled time that equipment is actually running
+- name: Performance
+  tag: performance
+  description: The speed at which equipment operates as a percentage of its designed speed
+- name: Quality
+  tag: quality
+  description: The proportion of produced units that meet quality standards without defects
+- name: World Class OEE
+  tag: WCOEE
+  description: An OEE score of 85 percent or higher, considered a benchmark for top manufacturing performance
+- name: Equipment Losses
+  tag: equiploss
+  description: Downtime and inefficiencies that reduce equipment availability, performance, or quality
