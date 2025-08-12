@@ -1,0 +1,92 @@
+link: https://en.wikipedia.org/wiki/Critical_race_theory
+slug: critical-race-theory
+file: critical-race-theory-2025-08-12.yaml
+verified:
+  questions: gaf3
+  tags: gaf3
+questions:
+- question: What does CRT stand for in academic discussions?
+  correct: Critical Race Theory
+  incorrect:
+  - Civil Rights Theory
+  - Critical Rationality Theory
+  - Cultural Race Terminology
+  tags:
+  - CRT
+- question: According to CRT, how is racism best understood?
+  correct: Embedded in laws, policies, and institutions
+  incorrect:
+  - A result of random individual actions
+  - Fully eradicated in modern society
+  - A biological construct
+  tags:
+  - CRT
+  - racism
+- question: Which prominent concept is frequently associated with CRT?
+  correct: Intersectionality
+  incorrect:
+  - Color-blind meritocracy
+  - Economic determinism only
+  - Postmodern rationalism
+  tags:
+  - CRT
+  - intersectionality
+- question: Who is one of the legal scholars credited with developing CRT?
+  correct: Derrick Bell
+  incorrect:
+  - Martin Luther King Jr.
+  - Noam Chomsky
+  - John Rawls
+  tags:
+  - CRT
+- question: What does CRT assert about race?
+  correct: It is a social construct with no biological basis
+  incorrect:
+  - It is biologically determined
+  - It is the same everywhere in the world
+  - It is unrelated to law and policy
+  tags:
+  - CRT
+  - racism
+- question: What is interest convergence in CRT?
+  correct: Racism persists when it aligns with white elites interests
+  incorrect:
+  - A policy converging to benefit minorities only
+  - A legal theory ignoring race
+  - A method for equitable social justice
+  tags:
+  - CRT
+  - racism
+- question: What is LatCrit?
+  correct: A branch of CRT focused on Latino or Latina experiences
+  incorrect:
+  - A critique rejecting CRT
+  - A term for racial neutrality
+  - A policy for racial assimilation
+  tags:
+  - CRT
+- question: According to CRT, why are color-blind legal principles insufficient?
+  correct: They ignore systemic and institutional racism
+  incorrect:
+  - They are too expensive to implement
+  - They focus only on individual prejudice
+  - They favor racial segregation
+  tags:
+  - CRT
+  - racism
+- question: When was CRT organized as a movement?
+  correct: 1989
+  incorrect:
+  - 1965
+  - 1972
+  - 2001
+  tags:
+  - CRT
+- question: What does DisCrit focus on?
+  correct: The intersection of disability and race
+  incorrect:
+  - Discipline in critical theory
+  - Discrimination in criminal trials
+  - Disputes in critical scholarship
+  tags:
+  - CRT
