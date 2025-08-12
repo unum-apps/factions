@@ -26,3 +26,6 @@ topics:
 - name: Inflation
   tag: inflation
   description: The rate at which the general level of prices for goods and services rises over time
+- name: Diminishing Returns
+  tag: DimRet
+  description: The economic concept describing the decrease in incremental output as additional inputs are added

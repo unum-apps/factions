@@ -31,6 +31,9 @@ Give this link, generate a unique slug, dashes no underscores, based on the link
 link:
 slug: (based on the link with name at front up to 48 chars, no date)
 file: (full filename with date at end and yaml suffix)
+verified:
+  questions: null
+  tags: null
 ```
 
 ## Branch
