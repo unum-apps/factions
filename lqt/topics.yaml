@@ -1,13 +1,37 @@
 topics:
-- name: Racism
-  tag: racism
-  description: Judging someone based on their race
-- name: Poverty
-  tag: poverty
-  description: People not having enough resources to live comfortably
+- name: Affirmative Action
+  tag: AffAct
+  description: Policies that support members of underrepresented groups through proactive measures
 - name: Critical Race Theory
   tag: CRT
   description: An academic framework that examines how laws, policies, and institutions perpetuate racial inequalities
+- name: Diminishing Returns
+  tag: DimRet
+  description: The economic concept describing the decrease in incremental output as additional inputs are added
+- name: Diversity Equity and Inclusion
+  tag: DEI
+  description: An organizational framework promoting diversity, equity, and inclusion
+- name: Equity
+  tag: equity
+  description: Ensuring fair access, opportunity, and advancement for all individuals
+- name: Financial Diversification
+  tag: FinDivers
+  description: A risk management strategy that spreads investments across various assets to reduce risk
+- name: Inflation
+  tag: inflation
+  description: The rate at which the general level of prices for goods and services rises over time
 - name: Intersectionality
   tag: intersectionality
   description: The study of how overlapping social identities relate to systems of oppression and discrimination
+- name: Overall Equipment Effectiveness
+  tag: OEE
+  description: A metric that measures the percentage of manufacturing time that is truly productive by combining availability, performance, and quality
+- name: Poverty
+  tag: poverty
+  description: People not having enough resources to live comfortably
+- name: Racism
+  tag: racism
+  description: Judging someone based on their race
+- name: Return on Investment
+  tag: ROI
+  description: A measure of the profitability or efficiency of an investment

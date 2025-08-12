@@ -1,0 +1,67 @@
+link: https://www.leanproduction.com/oee/
+slug: oee-overall-equipment-effectiveness
+file: oee-overall-equipment-effectiveness-2025-08-12.yaml
+verified:
+  questions: gaf3
+  tags: null
+questions:
+- question: What does OEE stand for?
+  correct: Overall Equipment Effectiveness
+  incorrect:
+  - Overall Efficiency Evaluation
+  - Operational Equipment Efficiency
+  - Output Equipment Evaluation
+- question: What are the three main factors measured in OEE?
+  correct: Availability, Performance, and Quality
+  incorrect:
+  - Output, Energy, and Efficiency
+  - Accuracy, Productivity, and Maintenance
+  - Speed, Reliability, and Cost
+- question: What is the purpose of OEE in manufacturing?
+  correct: To measure the percentage of manufacturing time that is truly productive
+  incorrect:
+  - To calculate total profit margins
+  - To determine machine maintenance schedules
+  - To set employee performance targets
+- question: How is OEE calculated?
+  correct: Availability x Performance x Quality
+  incorrect:
+  - Output x Energy x Efficiency
+  - Total Units Produced / Planned Units
+  - Performance + Availability + Quality
+- question: Which OEE factor measures if equipment is running when scheduled?
+  correct: Availability
+  incorrect:
+  - Performance
+  - Quality
+  - Reliability
+- question: Which OEE factor measures the speed of operation compared to its ideal run rate?
+  correct: Performance
+  incorrect:
+  - Availability
+  - Quality
+  - Utilization
+- question: Which OEE factor measures the proportion of good units produced?
+  correct: Quality
+  incorrect:
+  - Performance
+  - Availability
+  - Output Rate
+- question: What is considered a world-class OEE score?
+  correct: 85 percent or higher
+  incorrect:
+  - 60 percent
+  - 75 percent
+  - 95 percent
+- question: Which type of losses affect OEE availability?
+  correct: Equipment breakdowns and setup adjustments
+  incorrect:
+  - Slow cycles and small stops
+  - Defects and rework
+  - Raw material shortages
+- question: Which losses affect OEE performance?
+  correct: Slow cycles and small stops
+  incorrect:
+  - Equipment breakdowns and setup adjustments
+  - Defects and rework
+  - Quality inspections

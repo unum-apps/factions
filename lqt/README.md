@@ -13,6 +13,10 @@ Steps:
 - Verify Tags
 - Verify Link
 
+## Committing
+
+Ideally we'd commit after each stage, but I think it's fine right now to just commit at the end. Once we have more automation, we can logged what's working and not at each phase.
+
 # Submit Link
 
 This creates a submitted link.
@@ -27,15 +31,18 @@ Give this link, generate a unique slug, dashes no underscores, based on the link
 link:
 slug: (based on the link with name at front up to 48 chars, no date)
 file: (full filename with date at end and yaml suffix)
+verified:
+  questions: null
+  tags: null
 ```
 
 ## Branch
 
-Checkout this repo and create a branch of your username/slug from above.
+Checkout this repo and create a branch of your username/slug from above. Feel free to do one branch for like 5 links.
 
 ## File
 
-Create a file in `lqt/submitted` named as above with the generated content. Do a commit.
+Create a file in `lqt/submitted` named as above with the generated content.
 
 # Generate Questions
 
@@ -62,7 +69,7 @@ Link:
 
 ## File
 
-Create a file in `lqt/questions` named as above with the generated content. Do a commit.
+Create a file in `lqt/questions` named as above with the generated content.
 
 # Verify Questions
 
@@ -76,8 +83,6 @@ Add this block:
 verified:
   questions: (your github username here)
 ```
-
-Save and do a commit
 
 # Generate Topics
 
@@ -100,17 +105,15 @@ Topics
 
 ## File
 
-Create a file in `lqt/topics` named as above with the generated content. Do a commit.
+Create a file in `lqt/topics` named as above with the generated content.
 
 # Verify Topics
 
-Go into the file and verify accuracy. Edit and get rid of topics that don't make sense or are too narrow.
+Go into the file and verify accuracy. Edit if needed.
 
 ## File
 
-Go into in `lqt/topics.yaml` and add only the topics we want to make permanent.
-
-Save both files and do a commit.
+Go into in `lqt/topics.yaml` and add only the topics we want to make permanent. Ones that'll apply beyond this link. General ones.
 
 # Generate Tags
 
@@ -146,7 +149,7 @@ Topics
 
 ## File
 
-Create a file in `lqt/tags` named as above with the generated content. Do a commit.
+Create a file in `lqt/tags` named as above with the generated content.
 
 # Verify Tags
 
@@ -159,16 +162,14 @@ verified:
   tags: (your github username here)
 ```
 
-Commit.
-
 # Verify Link
 
 ## File
 
-Copy file from `lqt/tags` to `lqt/verified/`. Commit.
+Copy file from `lqt/tags` to `lqt/verified/`.
 
 ## Pull Request
 
 Push and create a PR named `LGT: (link)`. Send to the other approvers to merge.
 
-Note: You may have to rebase when Topic changes overlap.
+Note: You may have to rebase when Topic changes overlap. It's also fine to have multiple links in one PR.

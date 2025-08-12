@@ -1,0 +1,67 @@
+link: https://en.wikipedia.org/wiki/Diminishing_returns
+slug: diminishing-returns
+file: diminishing-returns-2025-08-12.yaml
+verifiwd:
+  questions: gaf3
+  tags: null
+questions:
+- question: What does the concept of diminishing returns describe?
+  correct: The decrease in the incremental output as additional inputs are added
+  incorrect:
+  - The increase in output proportional to inputs
+  - The elimination of output regardless of inputs
+  - The acceleration of production with more inputs
+- question: In economics, diminishing returns typically occur after what point?
+  correct: The point of optimal input level
+  incorrect:
+  - The first unit of input
+  - The break-even point
+  - The point of zero profit
+- question: Which law is closely related to diminishing returns?
+  correct: Law of Diminishing Marginal Returns
+  incorrect:
+  - Law of Supply and Demand
+  - Law of Comparative Advantage
+  - Law of Opportunity Cost
+- question: In farming, diminishing returns might occur when?
+  correct: Adding more fertilizer yields smaller increases in crop output
+  incorrect:
+  - Removing all fertilizer increases crop output
+  - Using no fertilizer produces the best yield
+  - Adding more fertilizer always doubles output
+- question: What is marginal product?
+  correct: The additional output produced by one more unit of input
+  incorrect:
+  - The total output from all inputs
+  - The cost of producing all units
+  - The profit after all expenses
+- question: Why do diminishing returns occur?
+  correct: Because fixed resources limit the effectiveness of additional inputs
+  incorrect:
+  - Because inputs lose their value over time
+  - Because demand always decreases
+  - Because inputs become more expensive
+- question: Which of the following is an example of diminishing returns in manufacturing?
+  correct: Adding more workers to a fixed-size factory reduces productivity per worker
+  incorrect:
+  - Adding machines increases output at the same rate indefinitely
+  - Fewer workers always produce more goods
+  - Machines operate faster with no limit
+- question: How is diminishing returns different from negative returns?
+  correct: Diminishing returns still increase total output but at a slower rate
+  incorrect:
+  - Diminishing returns reduce total output immediately
+  - Negative returns always increase total output
+  - They are the same concept
+- question: In business, diminishing returns might be seen when?
+  correct: Increasing advertising budget yields fewer new customers per dollar
+  incorrect:
+  - Increasing advertising always doubles the customer base
+  - Cutting the advertising budget increases customers
+  - Advertising has no measurable effect
+- question: What economic concept eventually follows diminishing returns if inputs continue to rise?
+  correct: Negative returns
+  incorrect:
+  - Constant returns
+  - Infinite returns
+  - Neutral returns
