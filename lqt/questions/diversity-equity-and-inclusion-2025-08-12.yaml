@@ -1,0 +1,64 @@
+link: https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion
+slug: diversity-equity-and-inclusion
+file: diversity-equity-and-inclusion-2025-08-12.yaml
+questions:
+- question: What does DEI stand for?
+  correct: Diversity, Equity, and Inclusion
+  incorrect:
+  - Diversity, Equality, and Innovation
+  - Diversity, Equity, and Innovation
+  - Diversity, Equality, and Inclusion
+- question: What is the main goal of DEI initiatives?
+  correct: To promote fair treatment and full participation of underrepresented groups
+  incorrect:
+  - To eliminate all forms of competition in the workplace
+  - To replace all existing laws with new ones
+  - To enforce uniform thinking across organizations
+- question: In the UK, what acronym is often used instead of DEI?
+  correct: EDI
+  incorrect:
+  - IDE
+  - DEU
+  - DIE
+- question: Which concept is sometimes added to DEI to form DEIB?
+  correct: Belonging
+  incorrect:
+  - Behavior
+  - Balance
+  - Benefit
+- question: What does the "Equity" component of DEI focus on?
+  correct: Ensuring fair access, opportunity, and advancement for all
+  incorrect:
+  - Giving everyone identical resources
+  - Prioritizing only economic growth
+  - Enforcing identical job roles
+- question: Which US legal concept is sometimes linked to DEI?
+  correct: Affirmative Action
+  incorrect:
+  - Free Speech Doctrine
+  - Electoral College
+  - Habeas Corpus
+- question: What does the "Inclusion" component of DEI involve?
+  correct: Creating environments where all individuals feel welcomed and valued
+  incorrect:
+  - Eliminating all cultural traditions
+  - Mandating identical personal beliefs
+  - Restricting group membership
+- question: What is one common criticism of DEI programs?
+  correct: They may become tokenistic without systemic change
+  incorrect:
+  - They are required by the US Constitution
+  - They eliminate the need for leadership
+  - They always reduce organizational diversity
+- question: What is often added to DEI to address accessibility?
+  correct: Accessibility (DEIA)
+  incorrect:
+  - Accountability (DEIQ)
+  - Advancement (DEIA)
+  - Advocacy (DEIV)
+- question: Which of the following is a primary focus of DEI in organizations?
+  correct: Addressing systemic barriers to equal participation
+  incorrect:
+  - Maximizing profits at all costs
+  - Reducing employee training
+  - Eliminating all competition in hiring
