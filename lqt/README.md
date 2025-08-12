@@ -12,7 +12,10 @@ Steps:
 - Generate Tags
 - Verify Tags
 - Verify Link
-- Commit
+
+## Committing
+
+Ideally we'd commit after each stage, but I think it's fine right now to just commit at the end. Once we have more automation, we can logged what's working and not at each phase.
 
 # Submit Link
 
@@ -36,7 +39,7 @@ Checkout this repo and create a branch of your username/slug from above. Feel fr
 
 ## File
 
-Create a file in `lqt/submitted` named as above with the generated content. Do a commit.
+Create a file in `lqt/submitted` named as above with the generated content.
 
 # Generate Questions
 
@@ -63,7 +66,7 @@ Link:
 
 ## File
 
-Create a file in `lqt/questions` named as above with the generated content. Do a commit.
+Create a file in `lqt/questions` named as above with the generated content.
 
 # Verify Questions
 
@@ -77,8 +80,6 @@ Add this block:
 verified:
   questions: (your github username here)
 ```
-
-Save and do a commit
 
 # Generate Topics
 
@@ -101,7 +102,7 @@ Topics
 
 ## File
 
-Create a file in `lqt/topics` named as above with the generated content. Do a commit.
+Create a file in `lqt/topics` named as above with the generated content.
 
 # Verify Topics
 
@@ -110,8 +111,6 @@ Go into the file and verify accuracy. Edit and get rid of topics that don't make
 ## File
 
 Go into in `lqt/topics.yaml` and add only the topics we want to make permanent.
-
-Save both files and do a commit.
 
 # Generate Tags
 
@@ -147,7 +146,7 @@ Topics
 
 ## File
 
-Create a file in `lqt/tags` named as above with the generated content. Do a commit.
+Create a file in `lqt/tags` named as above with the generated content.
 
 # Verify Tags
 
@@ -160,13 +159,11 @@ verified:
   tags: (your github username here)
 ```
 
-Commit.
-
 # Verify Link
 
 ## File
 
-Copy file from `lqt/tags` to `lqt/verified/`. Commit.
+Copy file from `lqt/tags` to `lqt/verified/`.
 
 ## Pull Request
 

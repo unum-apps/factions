@@ -20,3 +20,9 @@ topics:
 - name: Affirmative Action
   tag: AffAct
   description: Policies that support members of underrepresented groups through proactive measures
+- name: Return on Investment
+  tag: ROI
+  description: A measure of the profitability or efficiency of an investment
+- name: Inflation
+  tag: inflation
+  description: The rate at which the general level of prices for goods and services rises over time
