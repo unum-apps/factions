@@ -12,6 +12,7 @@ Steps:
 - Generate Tags
 - Verify Tags
 - Verify Link
+- Commit
 
 # Submit Link
 
@@ -31,7 +32,7 @@ file: (full filename with date at end and yaml suffix)
 
 ## Branch
 
-Checkout this repo and create a branch of your username/slug from above.
+Checkout this repo and create a branch of your username/slug from above. Feel free to do one branch for like 5 links.
 
 ## File
 
@@ -171,4 +172,4 @@ Copy file from `lqt/tags` to `lqt/verified/`. Commit.
 
 Push and create a PR named `LGT: (link)`. Send to the other approvers to merge.
 
-Note: You may have to rebase when Topic changes overlap.
+Note: You may have to rebase when Topic changes overlap. It's also fine to have multiple links in one PR.
